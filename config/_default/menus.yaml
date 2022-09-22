@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: 'uploads/akannetorresbeltran_cv.pdf'
+    url: 'uploads/ATB_cv.pdf'
     weight: 20
   - name: Contact
     url: '#contact'
