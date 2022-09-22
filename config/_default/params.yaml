@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: Rose
+  theme_night: Rose
   font: minimal
   font_size: L
 
@@ -62,7 +62,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: Rose
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
