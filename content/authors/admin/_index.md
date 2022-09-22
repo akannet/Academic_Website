@@ -14,7 +14,7 @@ organizations:
     url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the paths to higher education of first-generation and immigrant children in the U.S.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -64,8 +64,5 @@ email: ''
 highlight_name: true
 ---
 
-Akanne Torres Beltran is a PhD student in the Sociology program at the Ohio State University. Her research interests consist of first-generation students, immigration, family and gender studies. 
+I am a PhD student in the [Department of Sociology](https://sociology.osu.edu/) at the Ohio State University. My research interests include immigration, education, and gender and family. More specifically, the paths to higher education of first-generation and immigrant children in the U.S.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
